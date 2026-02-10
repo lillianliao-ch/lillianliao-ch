@@ -39,7 +39,7 @@ I build tools with AI to make recruitment smarter. Check out my pinned projects 
 
 | 💬 WeChat | 🔗 LinkedIn | 📧 Email | 📕 小红书 |
 |:---------:|:-----------:|:--------:|:---------:|
-| `nl13805799348` | [ruprolillian](https://www.linkedin.com/in/ruprolillian/) | [lillianliao123@gmail.com](mailto:lillianliao123@gmail.com) | Lillian的AI观察 |
+| `Along-the-path` | [ruprolillian](https://www.linkedin.com/in/ruprolillian/) | [lillianliao123@gmail.com](mailto:lillianliao123@gmail.com) | Lillian的AI观察 |
 
 > *"The best career moves often start with a casual conversation."*
 
