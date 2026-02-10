@@ -4,11 +4,11 @@
 
 **AI Talent Scout & Former Developer**
 
-*对 AI 充满热情的猎头 & 曾经的码农*
+*🚀 用代码思维做猎头，用 AI 重新定义招聘*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lilian-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ruprolillian/)
 [![Email](https://img.shields.io/badge/Email-lillianliao123-EA4335?style=flat-square&logo=gmail)](mailto:lillianliao123@gmail.com)
-[![Xiaohongshu](https://img.shields.io/badge/小红书-Lilian聊AI-FF2442?style=flat-square)](#)
+[![Xiaohongshu](https://img.shields.io/badge/小红书-Lillian的AI观察-FF2442?style=flat-square)](#)
 
 </div>
 
@@ -39,7 +39,7 @@ I build tools with AI to make recruitment smarter. Check out my pinned projects 
 
 | 💬 WeChat | 🔗 LinkedIn | 📧 Email | 📕 小红书 |
 |:---------:|:-----------:|:--------:|:---------:|
-| `nl13805799348` | [ruprolillian](https://www.linkedin.com/in/ruprolillian/) | [lillianliao123@gmail.com](mailto:lillianliao123@gmail.com) | Lilian聊AI |
+| `nl13805799348` | [ruprolillian](https://www.linkedin.com/in/ruprolillian/) | [lillianliao123@gmail.com](mailto:lillianliao123@gmail.com) | Lillian的AI观察 |
 
 > *"The best career moves often start with a casual conversation."*
 
