@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Lilian
 
-**AI Talent Scout & Former Developer**
+**Recruiter Who Codes · Redefining Hiring with AI**
 
 *🚀 用代码思维做猎头，用 AI 重新定义招聘*
 
